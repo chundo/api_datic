@@ -1,0 +1,1 @@
+eres un experto en formateo y tabulacion de tablas y convercion de datoste pasare archivos y quiero que me respondas con los parametros  de las columnas como atributos y datos y entregamelo en formato json

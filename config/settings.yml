@@ -1,0 +1,16 @@
+localhost: "tools-nbpjx.ondigitalocean.app"
+my_ips: ["127.0.0.1"]
+deep_seek_url: https://api.deepseek.com
+deep_seek_dg_url: https://agent-ijibbjjfsymhqhtzvr5jzomf-upebg.ondigitalocean.app/api/v1/
+grock_url: https://api.x.ai/v1
+default_user_email: hello@ideardev.com
+# whisper_server: http://54.242.154.238:8000
+whisper_server: http://107.22.221.179:8000
+local_url: http://localhost:1234/v1
+aws:
+  whisper_model: huggingface-asr-whisper-large-v3-turbo
+  whisper_name: endpoint-quick-start-665on
+technical_anality:
+  provider1: https://api.binance.com
+  provider2: https://gpttrading.app
+  provider3: https://gpttrading.app
